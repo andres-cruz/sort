@@ -14,7 +14,7 @@ $ npm start
 ```
 
 ### Features:
-The algorithm is capable of sorting
+The algorithm is capable of sorting:
 - Arrays of numbers
 - Strings
 - Linked Lists
