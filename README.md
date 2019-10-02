@@ -30,4 +30,4 @@ It implements the bubble sort algorithm, which is pretty simple and maybe not th
 
 - Written with TypeScript
 - It uses ts-node library to compile TypeScript to JavaScript
-- It uses nodemon and concurrently to run the project with just one command
+- It uses [nodemon](https://www.npmjs.com/package/nodemon) and [concurrently](https://www.npmjs.com/package/concurrently) to run the project with just one command
